@@ -1,0 +1,4 @@
+[06-Apr-2020 16:58:50 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function phpindo() in /work/public/phpinfo.php:2
+Stack trace:
+#0 {main}
+  thrown in /work/public/phpinfo.php on line 2
